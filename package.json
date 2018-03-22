@@ -1,0 +1,17 @@
+{
+  "name": "contentful-richtext-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "contentful-ui-extensions-sdk": "^3.3.0"
+  },
+  "devDependencies": {
+    "contentful-extension-cli": "^2.0.0"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "id": "mill3-richtext-editor",
+  "name": "Rich Text Editor",
+  "srcdoc": "./index.html",
+  "fieldTypes": ["Text"]
+}
